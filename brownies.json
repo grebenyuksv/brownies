@@ -1,0 +1,22 @@
+{
+    "brownies": [
+        {
+            "id": 1,
+            "title": "Екстра волоський горіх",
+            "photo":
+                "https://scontent.fiev13-1.fna.fbcdn.net/v/t45.5328-0/c134.0.540.540/p180x540/26755777_1784813324885768_4649016972221087744_n.jpg?_nc_cat=0&oh=dd183e7faa81735fed12b8321c45f945&oe=5C1DD4E9"
+        },
+        {
+            "id": 2,
+            "title": "Корицева груша",
+            "photo":
+                "https://scontent.fiev13-1.fna.fbcdn.net/v/t45.5328-0/c134.0.540.540/p180x540/21337067_1542690742449182_601960462766047232_n.jpg?_nc_cat=0&oh=140458d63dab2197a2cb4647614f19a7&oe=5C35942A"
+        },
+        {
+            "id": 3,
+            "title": "Банановий",
+            "photo":
+                "https://scontent.fiev13-1.fna.fbcdn.net/v/t45.5328-0/c134.0.540.540/p180x540/18340943_1646073665406045_613786393222578176_n.jpg?_nc_cat=0&oh=71a83e27ccf87a7086ea29a0d0d69df6&oe=5C32F475"
+        }
+    ]
+}
